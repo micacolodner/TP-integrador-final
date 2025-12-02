@@ -1,3 +1,4 @@
+//COLODNER, BOCCI, BRAVAR, TOLEDO --> GRUPO 2 5MB
 //LIBRERIAS
 #include <Wire.h>
 #include <LiquidCrystal_I2C.h>
